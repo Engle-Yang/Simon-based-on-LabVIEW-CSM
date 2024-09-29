@@ -1,6 +1,6 @@
 # Simon-based-on-LabVIEW-CSM
 
-基于CSM实现的Simon游戏
+基于CSM的Simon游戏实现
 
 Simon游戏介绍：https://baike.baidu.com/item/%E8%A5%BF%E8%92%99%E6%B8%B8%E6%88%8F/989865
 
